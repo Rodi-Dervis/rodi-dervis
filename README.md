@@ -13,7 +13,7 @@
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Rodi-Dervis&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=Rodi-Dervis&theme=radical&no-frame=false&no-bg=false&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Rodi-Dervis&limit=5&theme=dark&combine_all_yearly_contributions=true)
